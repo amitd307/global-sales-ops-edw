@@ -1,0 +1,17 @@
+{
+  "region": "IT",
+  "file": "italy_sales.csv",
+  "delimiter": ";",
+  "decimal_comma": true,
+  "currency": "EUR",
+  "date_format": "dd/MM/yyyy",
+  "columns": {
+    "order_id": "ordine",
+    "order_date": "data",
+    "store_code": "negozio",
+    "product_code": "articolo",
+    "quantity": "quantita",
+    "amount_local": "importo_eur",
+    "fulfilment_days": "giorni_consegna"
+  }
+}

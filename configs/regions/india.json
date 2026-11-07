@@ -1,0 +1,17 @@
+{
+  "region": "IN",
+  "file": "india_sales.csv",
+  "delimiter": ",",
+  "decimal_comma": false,
+  "currency": "INR",
+  "date_format": "dd-MM-yyyy",
+  "columns": {
+    "order_id": "invoice_no",
+    "order_date": "invoice_date",
+    "store_code": "store_code",
+    "product_code": "item_code",
+    "quantity": "qty",
+    "amount_local": "amount_inr",
+    "fulfilment_days": "fulfilment_days"
+  }
+}

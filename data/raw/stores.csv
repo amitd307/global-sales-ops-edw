@@ -1,0 +1,8 @@
+store_code,region,country,city,format
+IN-01,IN,India,Bengaluru,Flagship
+IN-02,IN,India,Mumbai,Studio
+IN-03,IN,India,Delhi,Shop-in-shop
+JP-01,JP,Japan,Tokyo,Studio
+JP-02,JP,Japan,Osaka,Shop-in-shop
+IT-01,IT,Italy,Milan,Studio
+IT-02,IT,Italy,Florence,Studio

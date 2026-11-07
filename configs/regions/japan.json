@@ -1,0 +1,17 @@
+{
+  "region": "JP",
+  "file": "japan_sales.csv",
+  "delimiter": ",",
+  "decimal_comma": false,
+  "currency": "JPY",
+  "date_format": "yyyy/MM/dd",
+  "columns": {
+    "order_id": "slip_id",
+    "order_date": "sale_date",
+    "store_code": "shop_cd",
+    "product_code": "product_cd",
+    "quantity": "units",
+    "amount_local": "total_jpy",
+    "fulfilment_days": "lead_days"
+  }
+}
